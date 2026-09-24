@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - arcade
 directors_cut: https://herebefrogs.com/errands-of-iris
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
